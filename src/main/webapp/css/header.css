@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+#menu {
+	text-align: right;
+	background-color: #8e1e13;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #ffffff;
+}
+
+#menuText {
+	text-align: center;
+	font-size: 1.25rem;
+}
+
+#menuText a{
+	color: #ffffff;
+	text-decoration: none;
+}
