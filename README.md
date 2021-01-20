@@ -10,9 +10,6 @@
 - Copy `LoginJsp.war` into webapps folder
 - Run Tomcat server
 
-## Tests
-- Aceess [the Test page][homepage]
-
 ## Development environment
 - openJDK 1.8
 - Tomcat 8.5
@@ -22,4 +19,3 @@
 
 <!-- Markdown link & img dfn's -->
 [dev-image]: https://img.shields.io/badge/Dev-Web-orange
-[homepage]: http://truebird.tk/LoginJsp
